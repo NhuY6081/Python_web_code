@@ -26,7 +26,7 @@ thời gian xử lý công việc hành chính.
 
 của các câu lạc bộ, đội nhóm sinh viên.
 
-##1.Lý do chọn đề tài
+## 1.Lý do chọn đề tài
 
 Tại Trường Đại học Kỹ thuật Công nghiệp – Đại học Thái Nguyên, các câu lạc bộ và đội nhóm sinh viên ngày càng phát triển mạnh mẽ với nhiều lĩnh vực đa dạng như 
 
@@ -42,7 +42,7 @@ tại Trường Đại học Kỹ thuật Công nghiệp” nhằm xây dựng m
 
 thuận tiện hơn.
 
-##2.Mục tiêu của đề tài
+## 2.Mục tiêu của đề tài
 
 - Giới thiệu thông tin về các câu lạc bộ, đội nhóm sinh viên và lĩnh vực hoạt động của từng câu lạc bộ.
 
@@ -54,7 +54,7 @@ thuận tiện hơn.
 
 - Hỗ trợ công tác thống kê, báo cáo và đánh giá hiệu quả hoạt động của các câu lạc bộ, đội nhóm sinh viên trong nhà trường.
 
-3.Phạm vi nghiên cứu và ứng dụng
+## 3.Phạm vi nghiên cứu và ứng dụng
 
 Đề tài tập trung xây dựng hệ thống quản lý CLB và các đội nhóm sinh viên trong phạm vi nội bộ nhà trường, phục vụ cho 3 đối tượng người dùng: Sinh viên (thành 
 
